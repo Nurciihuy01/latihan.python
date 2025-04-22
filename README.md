@@ -1,1 +1,1 @@
-# latihan.python
+Pengelolaan Data rumah sakit menggunakan database dan python : Dalam dunia kesehatan yang semakin terdigitalisasi, proses pendaftaran pasien secara manual sering kali menyebabkan antrian panjang, data yang tidak rapi, dan risiko kehilangan informasi penting. Oleh karena itu, dibutuhkan sebuah sistem pendaftaran pasien berbasis digital yang terintegrasi dengan database, sehingga dapat menyimpan, mengelola, dan mengakses data pasien dengan cepat, aman, dan efisien.
